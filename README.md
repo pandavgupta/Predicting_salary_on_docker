@@ -1,4 +1,4 @@
-# Predicting_salary_using_ML_model_on_docker
+# Predicting_salary_on_docker
 Using this Docker image an employees can predict their approximate salary on the basis of Year of Experiance in their job profile.
 ## How to use the docker image
 1.First download the image from docker hub:
