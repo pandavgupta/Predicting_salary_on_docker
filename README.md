@@ -1,5 +1,5 @@
 # Predicting_salary_on_docker
-Using this Docker image an employees can predict their approximate salary on the basis of Year of Experiance in their job profile.
+  Using this Docker image an employees can predict their approximate salary on the basis of Year of Experiance in their job profile.
 ## How to use the docker image
 1.First download the image from docker hub:
   `docker pull pandav10/salary_model:v1`
